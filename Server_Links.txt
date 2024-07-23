@@ -1,0 +1,12 @@
+ZeroTier Packet Tracking ID:
+
+Packet Tracking: 856127940ce62ba8 (ON)
+
+
+ZeroTier Network ID's:
+
+Test Server: 48d6023c467e3bea (ON)
+UAW Server: af415e486f5fa690 (ON)
+Another One: d3ecf5726d659fec (ON)
+Me Too: a09acf02337cb391 (ON)
+Another Random Network: a0cbf4b62a3cf680 (ON)
